@@ -5,3 +5,5 @@
 
 https://travis-ci.org/LusecnkoDan/Test2/builds/533785063
 
+https://coveralls.io/github/LusecnkoDan/Test2
+
