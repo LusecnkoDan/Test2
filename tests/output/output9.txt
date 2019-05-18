@@ -1,1 +1,0 @@
-The file ../../testlab2/tests/input/input9.txt cannot be opened
